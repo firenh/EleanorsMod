@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "firenh.eleanorsmod.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "eleanorsmod:block/polished_dripstone_slab"
+		},
+		"type=double": {
+			"model": "eleanorsmod:block/polished_dripstone"
+		},
+		"type=top": {
+			"model": "eleanorsmod:block/polished_dripstone_slab_top"
+		}
+	}
+}

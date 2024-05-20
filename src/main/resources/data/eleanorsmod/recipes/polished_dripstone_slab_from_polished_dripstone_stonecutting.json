@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "item": "eleanorsmod:polished_dripstone"
+    },
+    "result": {
+      "count": 2,
+      "id": "eleanorsmod:polished_dripstone_slab"
+    }
+  }
